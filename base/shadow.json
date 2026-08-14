@@ -1,0 +1,13 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "shadow": {
+    "default": {
+      "value": "0px 6px 13px 0px #0000001f, 0px 0.5px 4px 0px #0000001f",
+      "type": "shadow"
+    },
+    "accent": {
+      "value": "0px 6px 13px 0px #524cf01f, 0px 0.5px 4px 0px #524cf01f",
+      "type": "shadow"
+    }
+  }
+}

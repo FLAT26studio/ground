@@ -1,0 +1,45 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "fontSize": {
+    "25": {
+      "value": "10px",
+      "type": "fontSize"
+    },
+    "50": {
+      "value": "12px",
+      "type": "fontSize"
+    },
+    "75": {
+      "value": "14px",
+      "type": "fontSize"
+    },
+    "100": {
+      "value": "16px",
+      "type": "fontSize"
+    },
+    "125": {
+      "value": "18px",
+      "type": "fontSize"
+    },
+    "150": {
+      "value": "20px",
+      "type": "fontSize"
+    },
+    "200": {
+      "value": "24px",
+      "type": "fontSize"
+    },
+    "300": {
+      "value": "32px",
+      "type": "fontSize"
+    },
+    "350": {
+      "value": "36px",
+      "type": "fontSize"
+    },
+    "425": {
+      "value": "42px",
+      "type": "fontSize"
+    }
+  }
+}

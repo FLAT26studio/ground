@@ -1,0 +1,111 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "fontWeight": {
+    "bold": {
+      "value": "700px",
+      "type": "dimension"
+    },
+    "semiBold": {
+      "value": "600px",
+      "type": "dimension"
+    },
+    "regular": {
+      "value": "400px",
+      "type": "dimension"
+    }
+  },
+  "core": {
+    "0": {
+      "value": "0px",
+      "type": "dimension"
+    },
+    "50": {
+      "value": "4px",
+      "type": "dimension"
+    },
+    "100": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "150": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "200": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "300": {
+      "value": "24px",
+      "type": "dimension"
+    },
+    "400": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "450": {
+      "value": "36px",
+      "type": "dimension"
+    },
+    "500": {
+      "value": "20px",
+      "type": "dimension"
+    },
+    "600": {
+      "value": "48px",
+      "type": "dimension"
+    },
+    "800": {
+      "value": "64px",
+      "type": "dimension"
+    },
+    "1200": {
+      "value": "96px",
+      "type": "dimension"
+    },
+    "0_1": {
+      "value": "0px",
+      "type": "dimension"
+    },
+    "100_1": {
+      "value": "4px",
+      "type": "dimension"
+    },
+    "200_1": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "300_1": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "400_1": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "600_1": {
+      "value": "24px",
+      "type": "dimension"
+    },
+    "full": {
+      "value": "99px",
+      "type": "dimension"
+    }
+  },
+  "semantic": {
+    "gridLayout": {
+      "leftRight": {
+        "value": "{core.200}",
+        "type": "dimension"
+      },
+      "top": {
+        "value": "{core.800}",
+        "type": "dimension"
+      },
+      "bottom": {
+        "value": "{core.400}",
+        "type": "dimension"
+      }
+    }
+  }
+}

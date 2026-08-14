@@ -1,0 +1,77 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "display": {
+    "display42": {
+      "value": "700 42px Satoshi",
+      "type": "typography"
+    }
+  },
+  "heading": {
+    "headlineL32": {
+      "value": "700 32px/38px Satoshi",
+      "type": "typography"
+    },
+    "headlineM24": {
+      "value": "700 24px Satoshi",
+      "type": "typography"
+    },
+    "headingS18": {
+      "value": "700 18px Satoshi",
+      "type": "typography"
+    }
+  },
+  "bodyTitle": {
+    "bodyTitleXl20": {
+      "value": "700 20px Satoshi",
+      "type": "typography"
+    },
+    "bodyTitleL18": {
+      "value": "700 18px Satoshi",
+      "type": "typography"
+    },
+    "bodyTitleM16": {
+      "value": "700 16px Satoshi",
+      "type": "typography"
+    }
+  },
+  "body": {
+    "bodyXl20": {
+      "value": "400 20px Red Hat Display",
+      "type": "typography"
+    },
+    "bodyL18": {
+      "value": "400 18px Red Hat Display",
+      "type": "typography"
+    },
+    "bodyM16": {
+      "value": "400 16px Red Hat Display",
+      "type": "typography"
+    },
+    "bodyS14": {
+      "value": "400 14px Red Hat Display",
+      "type": "typography"
+    },
+    "bodyXs12": {
+      "value": "400 12px Red Hat Display",
+      "type": "typography"
+    }
+  },
+  "label": {
+    "labelL16": {
+      "value": "400 16px Satoshi",
+      "type": "typography"
+    },
+    "labelM14": {
+      "value": "400 14px Satoshi",
+      "type": "typography"
+    },
+    "labelS12": {
+      "value": "400 12px Satoshi",
+      "type": "typography"
+    },
+    "labelXs10": {
+      "value": "700 10px Satoshi",
+      "type": "typography"
+    }
+  }
+}
