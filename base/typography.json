@@ -2,75 +2,75 @@
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
   "display": {
     "display42": {
-      "value": "700 42px Satoshi",
+      "value": "700 {fontSize.425} {fontFamily.heading}",
       "type": "typography"
     }
   },
   "heading": {
     "headlineL32": {
-      "value": "700 32px/38px Satoshi",
+      "value": "700 {fontSize.300}/38px {fontFamily.heading}",
       "type": "typography"
     },
     "headlineM24": {
-      "value": "700 24px Satoshi",
+      "value": "700 {fontSize.200} {fontFamily.heading}",
       "type": "typography"
     },
     "headingS18": {
-      "value": "700 18px Satoshi",
+      "value": "700 {fontSize.125} {fontFamily.heading}",
       "type": "typography"
     }
   },
   "bodyTitle": {
     "bodyTitleXl20": {
-      "value": "700 20px Satoshi",
+      "value": "700 {fontSize.150} {fontFamily.body}",
       "type": "typography"
     },
     "bodyTitleL18": {
-      "value": "700 18px Satoshi",
+      "value": "700 {fontSize.125} {fontFamily.body}",
       "type": "typography"
     },
     "bodyTitleM16": {
-      "value": "700 16px Satoshi",
+      "value": "700 {fontSize.100} {fontFamily.body}",
       "type": "typography"
     }
   },
   "body": {
     "bodyXl20": {
-      "value": "400 20px Red Hat Display",
+      "value": "400 {fontSize.150} {fontFamily.body}",
       "type": "typography"
     },
     "bodyL18": {
-      "value": "400 18px Red Hat Display",
+      "value": "400 {fontSize.125} {fontFamily.body}",
       "type": "typography"
     },
     "bodyM16": {
-      "value": "400 16px Red Hat Display",
+      "value": "400 {fontSize.100} {fontFamily.body}",
       "type": "typography"
     },
     "bodyS14": {
-      "value": "400 14px Red Hat Display",
+      "value": "400 {fontSize.75} {fontFamily.body}",
       "type": "typography"
     },
     "bodyXs12": {
-      "value": "400 12px Red Hat Display",
+      "value": "400 {fontSize.50} Red Hat Display",
       "type": "typography"
     }
   },
   "label": {
     "labelL16": {
-      "value": "400 16px Satoshi",
+      "value": "400 {fontSize.100} {fontFamily.body}",
       "type": "typography"
     },
     "labelM14": {
-      "value": "400 14px Satoshi",
+      "value": "400 {fontSize.75} {fontFamily.body}",
       "type": "typography"
     },
     "labelS12": {
-      "value": "400 12px Satoshi",
+      "value": "400 {fontSize.50} {fontFamily.body}",
       "type": "typography"
     },
     "labelXs10": {
-      "value": "700 10px Satoshi",
+      "value": "700 {fontSize.25} {fontFamily.body}",
       "type": "typography"
     }
   }

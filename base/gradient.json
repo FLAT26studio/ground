@@ -3,11 +3,11 @@
   "gradient": {
     "linear": {
       "accent": {
-        "value": "radial-gradient(circle, #ad3300 0%, #000000 75%)",
+        "value": "radial-gradient(circle, rgba({core.tangelo.40}, 1) 0%, #000000 75%)",
         "type": "gradient"
       },
       "default": {
-        "value": "linear-gradient(180deg, #24658300 0%, #00131c 100%)",
+        "value": "linear-gradient(180deg, rgba({semantic.reactive.default.enabled}, 0) 0%, rgba({semantic.surface.lowest}, 1) 100%)",
         "type": "gradient"
       }
     },
