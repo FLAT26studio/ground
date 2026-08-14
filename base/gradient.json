@@ -48,6 +48,10 @@
           "type": "gradient"
         }
       }
+    },
+    "primary": {
+      "value": "linear-gradient(90deg, rgba({semantic.accent.secondary}, 1) 0%, rgba({semantic.accent.primary}, 1) 100%)",
+      "type": "gradient"
     }
   }
 }

@@ -1,75 +1,75 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
   "display": {
-    "display42": {
+    "display": {
       "value": "700 {fontSize.425} {fontFamily.heading}",
       "type": "typography"
     }
   },
   "heading": {
-    "headlineL32": {
+    "headlineL": {
       "value": "700 {fontSize.300}/38px {fontFamily.heading}",
       "type": "typography"
     },
-    "headlineM24": {
+    "headlineM": {
       "value": "700 {fontSize.200} {fontFamily.heading}",
       "type": "typography"
     },
-    "headingS18": {
+    "headingS": {
       "value": "700 {fontSize.125} {fontFamily.heading}",
       "type": "typography"
     }
   },
   "bodyTitle": {
-    "bodyTitleXl20": {
+    "bodyTitleXl": {
       "value": "700 {fontSize.150} {fontFamily.body}",
       "type": "typography"
     },
-    "bodyTitleL18": {
+    "bodyTitleL": {
       "value": "700 {fontSize.125} {fontFamily.body}",
       "type": "typography"
     },
-    "bodyTitleM16": {
+    "bodyTitleM": {
       "value": "700 {fontSize.100} {fontFamily.body}",
       "type": "typography"
     }
   },
   "body": {
-    "bodyXl20": {
+    "bodyXl": {
       "value": "400 {fontSize.150} {fontFamily.body}",
       "type": "typography"
     },
-    "bodyL18": {
+    "bodyL": {
       "value": "400 {fontSize.125} {fontFamily.body}",
       "type": "typography"
     },
-    "bodyM16": {
+    "bodyM": {
       "value": "400 {fontSize.100} {fontFamily.body}",
       "type": "typography"
     },
-    "bodyS14": {
+    "bodyS": {
       "value": "400 {fontSize.75} {fontFamily.body}",
       "type": "typography"
     },
-    "bodyXs12": {
-      "value": "400 {fontSize.50} Red Hat Display",
+    "bodyXs": {
+      "value": "400 {fontSize.50} {fontFamily.body}",
       "type": "typography"
     }
   },
   "label": {
-    "labelL16": {
+    "labelL": {
       "value": "400 {fontSize.100} {fontFamily.body}",
       "type": "typography"
     },
-    "labelM14": {
+    "labelM": {
       "value": "400 {fontSize.75} {fontFamily.body}",
       "type": "typography"
     },
-    "labelS12": {
+    "labelS": {
       "value": "400 {fontSize.50} {fontFamily.body}",
       "type": "typography"
     },
-    "labelXs10": {
+    "labelXs": {
       "value": "700 {fontSize.25} {fontFamily.body}",
       "type": "typography"
     }
