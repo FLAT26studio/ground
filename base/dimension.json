@@ -91,21 +91,5 @@
       "value": "99px",
       "type": "dimension"
     }
-  },
-  "semantic": {
-    "gridLayout": {
-      "leftRight": {
-        "value": "{core.200}",
-        "type": "dimension"
-      },
-      "top": {
-        "value": "{core.800}",
-        "type": "dimension"
-      },
-      "bottom": {
-        "value": "{core.400}",
-        "type": "dimension"
-      }
-    }
   }
 }

@@ -6,6 +6,18 @@
       "type": "space"
     },
     "gridLayout": {
+      "horizontal": {
+        "value": "{core.300}",
+        "type": "space"
+      },
+      "top": {
+        "value": "{core.800}",
+        "type": "space"
+      },
+      "bottom": {
+        "value": "{core.400}",
+        "type": "space"
+      },
       "gutter": {
         "value": "{core.150}",
         "type": "space"
