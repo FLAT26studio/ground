@@ -1,0 +1,57 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "gradient": {
+    "linear": {
+      "accent": {
+        "value": "radial-gradient(circle, rgba({core.tangelo.40}, 1) 0%, #000000 75%)",
+        "type": "gradient"
+      },
+      "default": {
+        "value": "linear-gradient(180deg, rgba({semantic.reactive.default.enabled}, 0) 0%, rgba({semantic.surface.lowest}, 1) 100%)",
+        "type": "gradient"
+      }
+    },
+    "creative": {
+      "light": {
+        "1": {
+          "value": "radial-gradient(circle, #ffffff 17.5%, #0000ff 100%), radial-gradient(circle, #ffffff 13.37%, #ffffff00 94.3%)",
+          "type": "gradient"
+        },
+        "2": {
+          "value": "radial-gradient(circle, #ffffff 23.5%, #ffffff 100%)",
+          "type": "gradient"
+        },
+        "3": {
+          "value": "radial-gradient(circle, #ffffff 0%, #ffffff 100%), radial-gradient(circle, #524cf0 0%, #ddfebc00 100%)",
+          "type": "gradient"
+        },
+        "4": {
+          "value": "radial-gradient(circle, #ffffff 17.5%, #ffffff 100%), radial-gradient(circle, #eeedfd 0%, #eeedfd00 94.3%), radial-gradient(circle, #524cf0 0%, #ddfebc00 100%)",
+          "type": "gradient"
+        }
+      },
+      "dark": {
+        "1": {
+          "value": "radial-gradient(circle, #000000 17.5%, #0000ff 100%), radial-gradient(circle, #0d0b4d 13.37%, #0d0b4d00 94.3%)",
+          "type": "gradient"
+        },
+        "2": {
+          "value": "radial-gradient(circle, #0000ff 0%, #000000 100%), radial-gradient(circle, #ddfebcb2 0%, #524cf000 100%)",
+          "type": "gradient"
+        },
+        "3": {
+          "value": "radial-gradient(circle, #000000 0%, #0000ff 100%)",
+          "type": "gradient"
+        },
+        "4": {
+          "value": "radial-gradient(circle, #ffffff 17.5%, #0000ff 100%)",
+          "type": "gradient"
+        }
+      }
+    },
+    "primary": {
+      "value": "linear-gradient(90deg, rgba({semantic.accent.secondary}, 1) 0%, rgba({semantic.accent.primary}, 1) 100%)",
+      "type": "gradient"
+    }
+  }
+}

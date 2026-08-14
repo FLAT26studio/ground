@@ -1,0 +1,51 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "semantic": {
+    "2Xl": {
+      "value": "{core.600}",
+      "type": "space"
+    },
+    "gridLayout": {
+      "horizontal": {
+        "value": "{core.300}",
+        "type": "space"
+      },
+      "top": {
+        "value": "{core.800}",
+        "type": "space"
+      },
+      "bottom": {
+        "value": "{core.400}",
+        "type": "space"
+      },
+      "gutter": {
+        "value": "{core.150}",
+        "type": "space"
+      }
+    },
+    "xl": {
+      "value": "{core.300}",
+      "type": "space"
+    },
+    "l": {
+      "value": "{core.200}",
+      "type": "space"
+    },
+    "m": {
+      "value": "{core.150}",
+      "type": "space"
+    },
+    "s": {
+      "value": "{core.100}",
+      "type": "space"
+    },
+    "xs": {
+      "value": "{core.50}",
+      "type": "space"
+    },
+    "null": {
+      "value": "{core.0}",
+      "type": "space"
+    }
+  }
+}
